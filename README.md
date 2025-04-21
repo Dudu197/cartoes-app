@@ -32,7 +32,7 @@ A modern React application for browsing and filtering credit card information. T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cartoes.git
+   git clone https://github.com/Dudu197/cartoes.git
    cd cartoes/cartoes-app
    ```
 
